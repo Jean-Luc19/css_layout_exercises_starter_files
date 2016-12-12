@@ -1,0 +1,44 @@
+
+
+.container1 {
+	width: 800px;
+	height: 500px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	border: 1px solid black;
+	font-size: 0;
+}
+
+.top {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+	border: 1px solid black;
+}
+.bottom {
+	height: 300px;
+	width: 33.333333%;
+	display: inline-block;
+	font-size: 0;
+	border: 1px solid black;
+}
+.inner1 {
+	background-color: green;
+}
+.inner2 {
+	background-color: blue;
+}
+.inner3 {
+	background-color: grey;
+}
+.inner4 {
+	background-color: black;
+}
+.inner5 {
+	background-color: #F3A54B;
+}
