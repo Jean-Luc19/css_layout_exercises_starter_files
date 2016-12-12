@@ -1,5 +1,11 @@
-
-
+ header {
+	background-color: purple;
+	/*width: 200px;*/
+	/*margin: auto;*/
+}
+h1 {
+	text-align: center;
+}
 .container1 {
 	width: 800px;
 	height: 500px;
