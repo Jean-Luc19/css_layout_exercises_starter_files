@@ -1,5 +1,12 @@
 
-
+header {
+	font-size: 30px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: aquamarine;
+	padding-bottom: 5px;
+}
 .container1 {
 	width: 800px;
 	height: 500px;
